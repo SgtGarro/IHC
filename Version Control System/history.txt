@@ -1,1 +1,1 @@
-2022-05-31  / 
+2022-05-31  -   Creation of the first version of the landing page of the project, including styles in CSS and the code for the first page in HTML
